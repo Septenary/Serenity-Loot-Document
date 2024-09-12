@@ -196,7 +196,7 @@ Trials will have their wishlists added to the bottom of the corresponding prio l
 The loot master cares where an item goes after it is awarded. Saying "Pass" will lead to the LM passing it along.
 
 For clarity on how this works with TMB, passing is streamlined:
-- You tell the LM you have the item or an upgrade to that item, and they mark it as received on TMB by assigning it to you. This works both in-game during raid and out-of-game through \#loot-discussion.
+- You tell the LM you have the item or an upgrade to that item, and they mark it as received on TMB by assigning it to you. This works both in-game during raid and out-of-game through \#thats-my-bis.
 - The LM directs the item to the next available raider in line.
 - If no other raiders are in line, it will then be rolled off.
 
