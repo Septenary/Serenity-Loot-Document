@@ -84,7 +84,7 @@ MS is well defined:
 - items that serve little or no purpose, such as quest items | ex. SotSS
 - tank items for healers are MS
 - PvP items such as the trinket off Ouro
-- PvP items such as any 2h weapon that is "not for hunters", including untamed blade and corrupted ashbringer
+- Two-Handed weapons (2H weps) are MS for all classes always
 - tank items for healers/casters  are MS. this means the hit% gear for priests, shadow res for warlocks, etc. +stam PvP gear remains MS for everyone.
 - alts may never roll MS, they must roll ALT or their roll will be ignored.
 - you must be able to equip or otherwise use the item.
@@ -97,7 +97,7 @@ OS is well defined:
 - flask set is always OS.
 - items which are only sometimes upgrades are OS. a DPS warrior getting a shield is OS.
 - dps gear for healers are always OS. tier 2.5 for healers is always OS.
-- a 2h "that's for hunters" is always OS for non-hunters, including ashkandi and the polearm off KT.
+- Two-Handed weapons (2H weps) are never OS, and are always MS
 - tier 3 for DPS warriors is always OS. see section ThatsMyBis "Required for Role".
 - alts may never roll OS, they must roll ALT or their roll will be ignored.
 - you must obviously be able to equip or otherwise use the item
