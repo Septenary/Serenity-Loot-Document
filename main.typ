@@ -211,7 +211,7 @@ Guild leadership reserves the right to "Perma-Bench" players who regularly ignor
   attribution: [\<Serenity\>])[
   Raiding is a team effort that begins with each individual having respect for the team. As such, all players are expected to bring their A-game not only for themselves, but out of respect for their fellow players and the team.]
 
-Perma-Benched players will recieve raid-invites last, after all available Core Raider and Trial Raiders. 
+Perma-Benched players will recieve raid-invites last, after all available Core Raiders and Trial Raiders. 
 
 Empty slots in raid may be kept empty despite a Perma-Benched player's availability.
 #linebreak()
