@@ -177,6 +177,7 @@ A raider's mains may roll OS on any item they can equip.
 - Atiesh has no specific class preference
 - Kingsfall is definitely OS for hunters. it's also OS for warriors lacking the required +daggers weapon skill.
 - Death's Sting is OS for all non-rogues (for the time being).
+- Slavemaker is MS for hunters. It's PvP MS as long as all hunters have it.
 - Corrupted Ashbringer is MS for anyone who can use it, as the key selling point is vanity/PvP
 
 #linebreak()
