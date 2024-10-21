@@ -7,7 +7,7 @@
   size : 12pt,
   paper: "us-legal",
   //resolution: "<Serenity> Loot Saturday, March 16, 2024",
-  in-effect: "Saturday, September 27, 2024",
+  in-effect: "Saturday, October 20, 2024",
   lang : "us",
   str-intro : (resolution, in-effect) => [This Loot System is in effect as of #in-effect],
   // Template
