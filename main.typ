@@ -185,7 +185,7 @@ A raider's mains may roll OS on any item they can equip.
 #pagebreak()
 
 = Trial Promotion
-Trial Raiders must have 4x raid nights (2x Tuesday + 2x Thursday, or 4x Thursday) of 40m \<Serenity\> raids to become eligible for promotion to Core Raider. Being benched counts as attendance.
+Trial Raiders must have 4x raid nights (2x Tuesday + 2x Thursday, or 4x Thursday) of 40m \<Serenity\> raids to become eligible for promotion to Core Raider. Being benched counts as attendance. Attendence must be consecutive and demonstrate contribution to our team's success.
 
 Trials will have their wishlists added to the bottom of the corresponding prio list. 
 
